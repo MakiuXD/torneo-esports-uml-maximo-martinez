@@ -29,6 +29,6 @@ torneo-esports-uml-maximo-martinez/
 https://github.com/MakiuXD/torneo-esports-uml-maximo-martinez
 
 ## Justificación del diseño
-"He elegido este diseño en base a mis conocimientos actuales. Aún no conozco otras formas de hacerlo, por lo que esta ha sido la opción que me ha parecido más adecuada. Sinceramente, no sabría cómo justificarlo de otra manera. ( ఠ ͟ʖ ఠ)
+He elegido este diseño en base a mis conocimientos actuales. Aún no conozco otras formas de hacerlo, por lo que esta ha sido la opción que me ha parecido más adecuada. Sinceramente, no sabría cómo justificarlo de otra manera. ( ఠ ͟ʖ ఠ)
 ## Conclusiones
 La verdad, este proyecto me sirvió para entender mejor cómo empezar a organizar un sistema. Me costó un poco, pero creo que al final lo resolví lo mejor que pude con lo que sé. Todavía me falta mucho por aprender, pero estuvo bien para practicar.
