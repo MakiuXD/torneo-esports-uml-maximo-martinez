@@ -12,9 +12,9 @@ utilizando UML para el modelado y Java para la implementación. <-- Esto era opc
 ## Diagramas UML
 
 ### Diagrama de Casos de Uso
-![Diagrama de casos de uso](diagrams/casos-uso.png)
+![Diagrama de casos de uso](Diagrams/casos-uso.png)
 ### Diagrama de Clases
-![Diagrama de clases](diagrams/clases.png)
+![Diagrama de clases](Diagrams/clases.png)
 
 ## Estructura del Proyecto
 torneo-esports-uml-maximo-martinez/ 
